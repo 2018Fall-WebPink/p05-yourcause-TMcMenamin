@@ -1,0 +1,83 @@
+/*
+* Tess McMenamin
+* 12/12/18
+* Littering Issues  
+*/
+
+/* The universal selector */ 
+
+*{ margin:0 
+    padding:0 
+}
+
+/* Body attributes here */ 
+/*background information*/ 
+
+Body {
+    background-color: aliceblue
+        width:1000px
+        margin:auto} 
+/*heading information*/ 
+
+h1{font-family: cursive;}
+h1{text-align: center;}
+h1{color:pink}
+h1{border-bottom: 3px solid skyblue;}
+h1{padding: 10px} 
+h1{margin:5px}
+h1{font-size: 300%;}
+
+
+h2{ color:darkgray;}
+h2{font-family: 'Amatic SC';}
+h2{font-size: 150%;}
+h2{margin:10px}
+h2{padding:5px}
+
+#Turtletrash{float:left;
+    height:200px;
+    border: 2px solid black; 
+    width: 300px;
+    margin:10px;
+    padding: 2px;} 
+
+/*4 pictures*/ 
+    #Plasticbag{float:left;
+    height:300x;
+    border: 2px solid black; 
+    width: 300px;
+    margin:10px;
+    padding: 2px;} 
+
+    #TurtleNet{float:left;
+    height:400x;
+    border: 2px solid black; 
+    width: 300px;
+    margin:10px;
+    padding: 2px;} 
+
+    #Bag{float:left;
+    height:300x;
+    border: 2px solid black; 
+    width: 300px;
+    margin:10px;
+    padding: 2px;} 
+
+    #Seal{float:right;
+    height:300x;
+    border: 2px solid black; 
+    width: 300px;
+    margin:10px;
+    padding: 2px;} 
+
+    /*Last picture*/ 
+    #Ocean{float:right;
+    height:300x;
+    border: 2px solid black; 
+    width: 300px;
+    margin:10px;
+    padding: 2px;} 
+
+#nofloat{clear:both;}
+
+
